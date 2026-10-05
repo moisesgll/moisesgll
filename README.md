@@ -1,16 +1,34 @@
-## Hi there 👋
+# Moisés
 
-<!--
-**moisesgll/moisesgll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electronics Engineering Student | Automation · IoT · Embedded Systems**
 
-Here are some ideas to get you started:
+I'm a Civil Electronics Engineering student interested in electronics, automation, IoT and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing projects involving embedded systems, sensors, control, computer vision, data analysis and machine learning.
+
+## Areas of Interest
+
+* ⚙️ Industrial Automation
+* 🌐 Internet of Things (IoT)
+* 🔌 Electronics & Embedded Systems
+* 🤖 Control & Intelligent Systems
+* 📡 Telecommunications
+
+## Technologies
+
+* **Programming:** Python · C++ · MATLAB
+* **Hardware:** Arduino · ESP32
+* **Simulation:** Tinkercad · Wokwi
+* **Tools:** Git · GitHub
+
+## Projects
+
+Projects and technical work are being progressively added to this profile.
+
+## Currently Learning
+
+* Industrial Automation
+* IoT
+* Embedded Systems
+* Machine Learning
+
